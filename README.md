@@ -23,3 +23,6 @@ Software components/packages to implement:
     * Cisco SG300-20 Managed PoE Switch
     * Various switches throughout the home
   * Home Control Infrastructure
+    * PoE IP Cameras
+    * Wink Hub
+    * 433/IR Transmitter/Receiver
